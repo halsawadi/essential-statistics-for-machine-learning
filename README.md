@@ -1,1 +1,1 @@
-# essential-statistics-for-machine-learning
+# Essential Statistics for Machine Learning
